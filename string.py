@@ -1,3 +1,5 @@
-text = input("Enter a string:")
-count = text.count('5')
-print("Occurences of '5' =", count)
+text = input("Enter a string: ")
+
+count = text.count('S')
+
+print("Occurrences of 'S' =", count)
